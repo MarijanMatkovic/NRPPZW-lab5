@@ -3,8 +3,8 @@ const urlsToCache = [
     '/',
     '/styles.css',
     '/app.js',
-    '/icon-192x192.png',
-    '/icon-512x512.png'
+    '/img/icon-192x192.png',
+    '/img/icon-512x512.png'
 ];
 
 // Instalacija Service Worker-a i keširanje resursa
