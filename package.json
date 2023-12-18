@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "serve": "serve -s"
+    "start": "serve -s",
+    "serve": "serve -s build --ssl-cert localhost.pem --ssl-key localhost-key.pem"
   },
   "repository": {
     "type": "git",
